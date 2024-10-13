@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Atividade jogo tic-tac-toy-react 
+
+Entrega de atividade da aula do professor Rogério.
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
